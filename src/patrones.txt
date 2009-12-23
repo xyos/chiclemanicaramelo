@@ -1,0 +1,5 @@
+Totalbbox="0.000,0.000,396.000,612.000"
+Nombre: bbox begins with 13.687,539.871
+
+
+Totalbbox
