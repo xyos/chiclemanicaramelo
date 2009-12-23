@@ -1,0 +1,1177 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pages>
+<page id="1" bbox="0.000,0.000,396.000,612.000" rotate="0">
+<text font="FEDBIG+ArialNarrow-Bold" vertical="False" bbox="7.243,189.343,7.353,496.247" fontsize="0.110">Ahora somos TELMEX COLOMBIA S.A. Resolución autorizada de numeración No. 320000606994 de 01 de Octubre de 2009 por computador autorizadas de 210034000 al 260000000</text>
+<figure id="I1" bbox="9.000,576.500,149.000,601.500">
+</figure>
+<figure id="I0" bbox="11.000,43.500,383.000,555.500">
+</figure>
+<figure id="I2" bbox="229.750,517.125,299.750,553.125">
+</figure>
+<rect linewidth="0" bbox="0.000,569.520,396.000,611.999" /><text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="389.043,64.193,389.248,126.393" fontsize="0.205">-DESPRENDIBLE BANCO-</text>
+<rect linewidth="0" bbox="154.500,580.729,390.750,601.424" /><textbox id="142" bbox="154.500,597.333,172.500,597.445">
+<textline bbox="154.500,597.333,172.500,597.445">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="154.500,597.333,172.500,597.445" fontsize="0.113">TELMEX</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="138" bbox="154.500,592.159,171.753,592.271">
+<textline bbox="154.500,592.159,171.753,592.271">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="154.500,592.159,171.753,592.271" fontsize="0.113">Grandes</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="146" bbox="154.500,586.985,172.752,587.097">
+<textline bbox="154.500,586.985,172.752,587.097">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="154.500,586.985,172.752,587.097" fontsize="0.113">Actividad</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="117" bbox="174.413,597.333,198.155,597.445">
+<textline bbox="174.413,597.333,198.155,597.445">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="174.413,597.333,198.155,597.445" fontsize="0.113">COLOMBIA</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="35" bbox="16.437,548.760,45.606,548.935">
+<textline bbox="16.437,548.760,45.606,548.935">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="16.437,548.760,45.606,548.935" fontsize="0.175">Señor(a):</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="94" bbox="200.076,597.333,208.572,597.445">
+<textline bbox="200.076,597.333,208.572,597.445">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="200.076,597.333,208.572,597.445" fontsize="0.113">S.A.</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="9" bbox="210.488,597.333,217.728,597.445">
+<textline bbox="210.488,597.333,217.728,597.445">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="210.488,597.333,217.728,597.445" fontsize="0.113">NIT</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="101" bbox="219.646,597.333,248.657,597.445">
+<textline bbox="219.646,597.333,248.657,597.445">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="219.646,597.333,248.657,597.445" fontsize="0.113">830.053.800-4</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="89" bbox="250.578,597.333,262.832,597.445">
+<textline bbox="250.578,597.333,262.832,597.445">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="250.578,597.333,262.832,597.445" fontsize="0.113">SEDE</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="26" bbox="264.742,597.333,302.475,597.445">
+<textline bbox="264.742,597.333,302.475,597.445">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="264.742,597.333,302.475,597.445" fontsize="0.113">ADMINISTRATIVA</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="69" bbox="304.405,597.333,319.655,597.445">
+<textline bbox="304.405,597.333,319.655,597.445">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="304.405,597.333,319.655,597.445" fontsize="0.113">Carrera</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="53" bbox="321.567,597.333,329.572,597.445">
+<textline bbox="321.567,597.333,329.572,597.445">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="321.567,597.333,329.572,597.445" fontsize="0.113">11A</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="158" bbox="331.482,597.333,338.480,597.445">
+<textline bbox="331.482,597.333,338.480,597.445">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="331.482,597.333,338.480,597.445" fontsize="0.113">No.</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="16" bbox="340.394,597.333,351.901,597.445">
+<textline bbox="340.394,597.333,351.901,597.445">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="340.394,597.333,351.901,597.445" fontsize="0.113">94-76</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="64" bbox="353.811,597.333,371.311,597.445">
+<textline bbox="353.811,597.333,371.311,597.445">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="353.811,597.333,371.311,597.445" fontsize="0.113">Teléfono</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="14" bbox="373.232,597.333,390.746,597.445">
+<textline bbox="373.232,597.333,390.746,597.445">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="373.232,597.333,390.746,597.445" fontsize="0.113">6500500</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="107" bbox="173.281,592.159,202.536,592.271">
+<textline bbox="173.281,592.159,202.536,592.271">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="173.281,592.159,202.536,592.271" fontsize="0.113">contribuyentes</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="149" bbox="204.070,592.159,224.577,592.271">
+<textline bbox="204.070,592.159,224.577,592.271">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="204.070,592.159,224.577,592.271" fontsize="0.113">resolución</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="84" bbox="226.104,592.159,238.614,592.271">
+<textline bbox="226.104,592.159,238.614,592.271">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="226.104,592.159,238.614,592.271" fontsize="0.113">10520</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="42" bbox="240.139,592.159,246.142,592.271">
+<textline bbox="240.139,592.159,246.142,592.271">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="240.139,592.159,246.142,592.271" fontsize="0.113">del</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="116" bbox="247.667,592.159,252.671,592.271">
+<textline bbox="247.667,592.159,252.671,592.271">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="247.667,592.159,252.671,592.271" fontsize="0.113">18</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="67" bbox="254.195,592.159,259.199,592.271">
+<textline bbox="254.195,592.159,259.199,592.271">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="254.195,592.159,259.199,592.271" fontsize="0.113">de</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="71" bbox="174.188,586.985,196.445,587.097">
+<textline bbox="174.188,586.985,196.445,587.097">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="174.188,586.985,196.445,587.097" fontsize="0.113">Económica</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="74" bbox="197.877,586.985,205.383,587.097">
+<textline bbox="197.877,586.985,205.383,587.097">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="197.877,586.985,205.383,587.097" fontsize="0.113">304</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="5" bbox="206.814,586.985,221.070,587.097">
+<textline bbox="206.814,586.985,221.070,587.097">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="206.814,586.985,221.070,587.097" fontsize="0.113">Código</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="23" bbox="222.504,586.985,231.495,587.097">
+<textline bbox="222.504,586.985,231.495,587.097">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="222.504,586.985,231.495,587.097" fontsize="0.113">CIIU</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="155" bbox="232.933,586.985,242.941,587.097">
+<textline bbox="232.933,586.985,242.941,587.097">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="232.933,586.985,242.941,587.097" fontsize="0.113">6424</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="73" bbox="244.373,586.985,255.866,587.097">
+<textline bbox="244.373,586.985,255.866,587.097">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="244.373,586.985,255.866,587.097" fontsize="0.113">Tarifa</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="163" bbox="260.723,592.159,280.226,592.271">
+<textline bbox="260.723,592.159,280.226,592.271">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="260.723,592.159,280.226,592.271" fontsize="0.113">diciembre</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="127" bbox="281.753,592.159,286.757,592.271">
+<textline bbox="281.753,592.159,286.757,592.271">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="281.753,592.159,286.757,592.271" fontsize="0.113">de</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="102" bbox="288.281,592.159,299.536,592.271">
+<textline bbox="288.281,592.159,299.536,592.271">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="288.281,592.159,299.536,592.271" fontsize="0.113">2003.</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="22" bbox="301.064,592.159,326.822,592.271">
+<textline bbox="301.064,592.159,326.822,592.271">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="301.064,592.159,326.822,592.271" fontsize="0.113">Retenedores</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="86" bbox="328.353,592.159,333.357,592.271">
+<textline bbox="328.353,592.159,333.357,592.271">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="328.353,592.159,333.357,592.271" fontsize="0.113">de</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="95" bbox="257.305,586.985,266.058,587.097">
+<textline bbox="257.305,586.985,266.058,587.097">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="257.305,586.985,266.058,587.097" fontsize="0.113">9.66</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="46" bbox="334.881,592.159,342.130,592.271">
+<textline bbox="334.881,592.159,342.130,592.271">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="334.881,592.159,342.130,592.271" fontsize="0.113">IVA</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="21" bbox="343.657,592.159,346.159,592.271">
+<textline bbox="343.657,592.159,346.159,592.271">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="343.657,592.159,346.159,592.271" fontsize="0.113">e</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="152" bbox="347.683,592.159,364.931,592.271">
+<textline bbox="347.683,592.159,364.931,592.271">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="347.683,592.159,364.931,592.271" fontsize="0.113">Industria</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="6" bbox="366.464,592.159,368.714,592.271">
+<textline bbox="366.464,592.159,368.714,592.271">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="366.464,592.159,368.714,592.271" fontsize="0.113">y</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="92" bbox="370.237,592.159,390.735,592.271">
+<textline bbox="370.237,592.159,390.735,592.271">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="370.237,592.159,390.735,592.271" fontsize="0.113">Comercio.</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="118" bbox="267.492,586.985,273.995,587.097">
+<textline bbox="267.492,586.985,273.995,587.097">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="267.492,586.985,273.995,587.097" fontsize="0.113">por</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="75" bbox="275.425,586.985,286.680,587.097">
+<textline bbox="275.425,586.985,286.680,587.097">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="275.425,586.985,286.680,587.097" fontsize="0.113">1000.</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="135" bbox="288.114,586.985,304.116,587.097">
+<textline bbox="288.114,586.985,304.116,587.097">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="288.114,586.985,304.116,587.097" fontsize="0.113">Servicio</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="1" bbox="305.549,586.985,310.553,587.097">
+<textline bbox="305.549,586.985,310.553,587.097">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="305.549,586.985,310.553,587.097" fontsize="0.113">de</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="134" bbox="311.983,586.985,332.233,587.097">
+<textline bbox="311.983,586.985,332.233,587.097">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="311.983,586.985,332.233,587.097" fontsize="0.113">Televisión</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="79" bbox="333.672,586.985,347.177,587.097">
+<textline bbox="333.672,586.985,347.177,587.097">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="333.672,586.985,347.177,587.097" fontsize="0.113">exento</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="10" bbox="348.611,586.985,353.615,587.097">
+<textline bbox="348.611,586.985,353.615,587.097">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="348.611,586.985,353.615,587.097" fontsize="0.113">de</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="97" bbox="355.046,586.985,373.550,587.097">
+<textline bbox="355.046,586.985,373.550,587.097">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="355.046,586.985,373.550,587.097" fontsize="0.113">retención</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="57" bbox="374.986,586.985,390.736,587.097">
+<textline bbox="374.986,586.985,390.736,587.097">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="374.986,586.985,390.736,587.097" fontsize="0.113">Decreto</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="39" bbox="154.500,581.811,359.767,581.923">
+<textline bbox="154.500,581.811,359.767,581.923">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="154.500,581.811,359.767,581.923" fontsize="0.113">2775/83 IVA - Régimen Común.Somos autorretenedores Resolución 11634 del 03 de octubre de 2007.</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="56" bbox="128.284,548.746,227.824,549.033">
+<textline bbox="128.284,548.746,227.824,549.033">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="128.284,548.746,227.824,549.033" fontsize="0.287">Factura de Venta:  211996138 </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="165" bbox="299.952,547.342,380.250,547.588">
+<textline bbox="299.952,547.342,380.250,547.588">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="299.952,547.342,380.250,547.588" fontsize="0.246">PARA PAGOS POR MEDIOS</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="129" bbox="305.456,540.862,376.400,541.108">
+<textline bbox="305.456,540.862,376.400,541.108">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="305.456,540.862,376.400,541.108" fontsize="0.246">ELECTRONICOS DIGITE </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="123" bbox="13.687,539.871,133.394,540.158">
+<textline bbox="13.687,539.871,133.394,540.158">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="13.687,539.871,133.394,540.158" fontsize="0.287">CRUZ ELENA BEDOYA JARAMILLO</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="38" bbox="324.291,534.382,355.929,534.628">
+<textline bbox="324.291,534.382,355.929,534.628">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="324.291,534.382,355.929,534.628" fontsize="0.246">No. Cuenta</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="98" bbox="13.687,531.835,130.230,532.010">
+<textline bbox="13.687,531.835,130.230,532.010">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="13.687,531.835,130.230,532.010" fontsize="0.175">21855501                      ESTRATO   3</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="19" bbox="13.687,523.786,103.903,523.961">
+<textline bbox="13.687,523.786,103.903,523.961">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="13.687,523.786,103.903,523.961" fontsize="0.175">CL 26 84BC-135 APT PISO1</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="136" bbox="326.517,520.621,361.531,520.908">
+<textline bbox="326.517,520.621,361.531,520.908">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="326.517,520.621,361.531,520.908" fontsize="0.287"> 42739045 </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="54" bbox="13.687,515.736,48.687,515.911">
+<textline bbox="13.687,515.736,48.687,515.911">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="13.687,515.736,48.687,515.911" fontsize="0.175">MEDELLÍN</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="41" bbox="42.380,478.207,61.730,478.481">
+<textline bbox="42.380,478.207,61.730,478.481">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="42.380,478.207,61.730,478.481" fontsize="0.275">Fecha</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="144" bbox="234.187,509.269,293.328,509.543">
+<textline bbox="234.187,509.269,293.328,509.543">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="234.187,509.269,293.328,509.543" fontsize="0.275">Fecha Expedición:</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="148" bbox="174.000,503.495,210.726,503.741">
+<textline bbox="174.000,503.495,210.726,503.741">
+<text font="FDDBIG+ArialNarrow" vertical="False" bbox="174.000,503.501,196.295,503.706" fontsize="0.205">CPA - UME </text>
+<text font="FDDBIG+ArialNarrow" vertical="False" bbox="196.321,503.495,199.321,503.741" fontsize="0.246">- </text>
+<text font="FDDBIG+ArialNarrow" vertical="False" bbox="199.326,503.501,210.726,503.706" fontsize="0.205">20942</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="141" bbox="234.500,498.957,295.865,499.231">
+<textline bbox="234.500,498.957,295.865,499.231">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="234.500,498.957,295.865,499.231" fontsize="0.275">Periodo Facturado:</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="96" bbox="155.605,478.394,193.922,478.668">
+<textline bbox="155.605,478.394,193.922,478.668">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="155.605,478.394,193.922,478.668" fontsize="0.275">Descripción</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="160" bbox="234.500,488.832,303.684,489.106">
+<textline bbox="234.500,488.832,303.684,489.106">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="234.500,488.832,303.684,489.106" fontsize="0.275">Corte de Facturación:</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="12" bbox="310.269,507.082,353.963,507.369">
+<textline bbox="310.269,507.082,353.963,507.369">
+<text font="FDDBIG+ArialNarrow" vertical="False" bbox="310.269,507.082,353.963,507.369" fontsize="0.287">Noviembre 02/09</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="140" bbox="310.269,497.457,367.683,497.744">
+<textline bbox="310.269,497.457,367.683,497.744">
+<text font="FDDBIG+ArialNarrow" vertical="False" bbox="310.269,497.457,367.683,497.744" fontsize="0.287">Nov 01/09 - Nov 30/09</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="139" bbox="17.875,469.183,59.741,469.320">
+<textline bbox="17.875,469.183,59.741,469.320">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="17.875,469.183,59.741,469.320" fontsize="0.138">Noviembre 01/09</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="28" bbox="17.875,463.423,59.741,463.560">
+<textline bbox="17.875,463.423,59.741,463.560">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="17.875,463.423,59.741,463.560" fontsize="0.138">Noviembre 01/09</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="4" bbox="12.898,353.720,88.846,353.966">
+<textline bbox="12.898,353.720,88.846,353.966">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="12.898,353.720,88.846,353.966" fontsize="0.246">Total Factura Mes Anterior</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="76" bbox="40.279,341.885,61.678,342.060">
+<textline bbox="40.279,341.885,61.678,342.060">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="40.279,341.885,61.678,342.060" fontsize="0.175">23.200</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="13" bbox="14.017,328.884,88.861,329.143">
+<textline bbox="14.017,328.884,88.861,329.143">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="14.017,328.884,88.861,329.143" fontsize="0.258">FECHA LIMITE DE PAGO</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="15" bbox="275.765,478.269,298.089,478.543">
+<textline bbox="275.765,478.269,298.089,478.543">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="275.765,478.269,298.089,478.543" fontsize="0.275">$ Valor</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="147" bbox="310.269,487.957,329.078,488.244">
+<textline bbox="310.269,487.957,329.078,488.244">
+<text font="FDDBIG+ArialNarrow" vertical="False" bbox="310.269,487.957,329.078,488.244" fontsize="0.287">Corte 1</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="119" bbox="345.290,478.144,356.452,478.418">
+<textline bbox="345.290,478.144,356.452,478.418">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="345.290,478.144,356.452,478.418" fontsize="0.275">IVA</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="99" bbox="98.157,469.183,107.017,469.320">
+<textline bbox="98.157,469.183,107.017,469.320">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="98.157,469.183,107.017,469.320" fontsize="0.138">IVA</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="68" bbox="365.754,469.183,379.510,469.320">
+<textline bbox="365.754,469.183,379.510,469.320">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="365.754,469.183,379.510,469.320" fontsize="0.138">3.200</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="8" bbox="98.157,463.423,175.745,463.560">
+<textline bbox="98.157,463.423,175.745,463.560">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="98.157,463.423,175.745,463.560" fontsize="0.138">BASICO TV RENTA MENSUAL</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="120" bbox="145.000,354.071,202.002,354.329">
+<textline bbox="145.000,354.071,202.002,354.329">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="145.000,354.071,202.002,354.329" fontsize="0.258">Valor Total Pagado</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="122" bbox="280.537,353.821,295.569,354.079">
+<textline bbox="280.537,353.821,295.569,354.079">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="280.537,353.821,295.569,354.079" fontsize="0.258">Total</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="55" bbox="130.181,329.288,169.045,329.575">
+<textline bbox="130.181,329.288,169.045,329.575">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="130.181,329.288,169.045,329.575" fontsize="0.287">INMEDIATA</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="91" bbox="298.909,463.423,315.722,463.560">
+<textline bbox="298.909,463.423,315.722,463.560">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="298.909,463.423,315.722,463.560" fontsize="0.138">20.000</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="162" bbox="338.004,353.446,365.277,353.704">
+<textline bbox="338.004,353.446,365.277,353.704">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="338.004,353.446,365.277,353.704" fontsize="0.258">Total IVA</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="50" bbox="274.825,341.572,296.224,341.747">
+<textline bbox="274.825,341.572,296.224,341.747">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="274.825,341.572,296.224,341.747" fontsize="0.175">20.000</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="125" bbox="340.709,340.947,358.216,341.122">
+<textline bbox="340.709,340.947,358.216,341.122">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="340.709,340.947,358.216,341.122" fontsize="0.175">3.200</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="80" bbox="238.800,328.082,293.841,328.356">
+<textline bbox="238.800,328.082,293.841,328.356">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="238.800,328.082,293.841,328.356" fontsize="0.275">TOTAL A PAGAR</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="159" bbox="338.084,327.686,359.483,327.973">
+<textline bbox="338.084,327.686,359.483,327.973">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="338.084,327.686,359.483,327.973" fontsize="0.287">46.400</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="11" bbox="11.145,316.738,381.845,316.964">
+<textline bbox="11.145,316.738,381.845,316.964">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="11.145,316.738,381.845,316.964" fontsize="0.226">Pague su factura antes de la fecha límite de pago. Evite la suspención de los servicios y un cargo por reinstalación de $20.000 pesos más IVA</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="121" bbox="13.092,304.457,181.797,304.657">
+<textline bbox="13.092,304.457,181.797,304.657">
+<text font="EEDBIG+Arial-BoldItalicMT" vertical="False" bbox="13.092,304.457,181.797,304.657" fontsize="0.201">URGENTE: SU CUENTA PRESENTA 1 MES DE MORA. SI NO</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="29" bbox="13.092,297.976,171.625,298.177">
+<textline bbox="13.092,297.976,171.625,298.177">
+<text font="EEDBIG+Arial-BoldItalicMT" vertical="False" bbox="13.092,297.976,171.625,298.177" fontsize="0.201">REALIZA EL PAGO, LOS SERVICIOS DE INTERNET Y TV</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="93" bbox="13.092,291.497,191.968,291.697">
+<textline bbox="13.092,291.497,191.968,291.697">
+<text font="EEDBIG+Arial-BoldItalicMT" vertical="False" bbox="13.092,291.497,191.968,291.697" fontsize="0.201">PODRAN SER SUSPENDIDOS, EL DE TELEFONIA CANCELADO</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="45" bbox="13.092,285.017,164.757,285.217">
+<textline bbox="13.092,285.017,164.757,285.217">
+<text font="EEDBIG+Arial-BoldItalicMT" vertical="False" bbox="13.092,285.017,164.757,285.217" fontsize="0.201">Y LA MORA REPORTADA A CENTRALES DE RIESGO.</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="58" bbox="14.992,241.318,29.666,241.456">
+<textline bbox="14.992,241.318,29.666,241.456">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="14.992,241.318,29.666,241.456" fontsize="0.138">Señor</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="44" bbox="32.077,241.318,58.350,241.456">
+<textline bbox="32.077,241.318,58.350,241.456">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="32.077,241.318,58.350,241.456" fontsize="0.138">Suscriptor:</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="47" bbox="60.771,241.318,67.498,241.456">
+<textline bbox="60.771,241.318,67.498,241.456">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="60.771,241.318,67.498,241.456" fontsize="0.138">En</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="17" bbox="69.907,241.318,81.523,241.456">
+<textline bbox="69.907,241.318,81.523,241.456">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="69.907,241.318,81.523,241.456" fontsize="0.138">caso</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="103" bbox="83.933,241.318,90.049,241.456">
+<textline bbox="83.933,241.318,90.049,241.456">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="83.933,241.318,90.049,241.456" fontsize="0.138">de</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="34" bbox="92.459,241.318,115.686,241.456">
+<textline bbox="92.459,241.318,115.686,241.456">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="92.459,241.318,115.686,241.456" fontsize="0.138">presentar</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="2" bbox="118.103,241.318,127.277,241.456">
+<textline bbox="118.103,241.318,127.277,241.456">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="118.103,241.318,127.277,241.456" fontsize="0.138">una</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="51" bbox="129.688,241.318,159.333,241.456">
+<textline bbox="129.688,241.318,159.333,241.456">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="129.688,241.318,159.333,241.456" fontsize="0.138">reclamación</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="61" bbox="161.748,241.318,170.614,241.456">
+<textline bbox="161.748,241.318,170.614,241.456">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="161.748,241.318,170.614,241.456" fontsize="0.138">con</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="77" bbox="173.024,241.318,192.279,241.456">
+<textline bbox="173.024,241.318,192.279,241.456">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="173.024,241.318,192.279,241.456" fontsize="0.138">relación</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="131" bbox="194.693,241.318,198.972,241.456">
+<textline bbox="194.693,241.318,198.972,241.456">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="194.693,241.318,198.972,241.456" fontsize="0.138">al</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="62" bbox="201.382,241.318,216.661,241.456">
+<textline bbox="201.382,241.318,216.661,241.456">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="201.382,241.318,216.661,241.456" fontsize="0.138">monto</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="143" bbox="219.077,241.318,241.995,241.456">
+<textline bbox="219.077,241.318,241.995,241.456">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="219.077,241.318,241.995,241.456" fontsize="0.138">facturado</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="36" bbox="244.417,241.318,257.865,241.456">
+<textline bbox="244.417,241.318,257.865,241.456">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="244.417,241.318,257.865,241.456" fontsize="0.138">antes</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="105" bbox="260.280,241.318,266.396,241.456">
+<textline bbox="260.280,241.318,266.396,241.456">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="260.280,241.318,266.396,241.456" fontsize="0.138">de</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="108" bbox="268.806,241.318,273.085,241.456">
+<textline bbox="268.806,241.318,273.085,241.456">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="268.806,241.318,273.085,241.456" fontsize="0.138">la</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="37" bbox="275.495,241.318,288.942,241.456">
+<textline bbox="275.495,241.318,288.942,241.456">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="275.495,241.318,288.942,241.456" fontsize="0.138">fecha</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="81" bbox="291.358,241.318,297.474,241.456">
+<textline bbox="291.358,241.318,297.474,241.456">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="291.358,241.318,297.474,241.456" fontsize="0.138">de</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="137" bbox="299.884,241.318,312.116,241.456">
+<textline bbox="299.884,241.318,312.116,241.456">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="299.884,241.318,312.116,241.456" fontsize="0.138">pago</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="25" bbox="314.528,241.318,336.231,241.456">
+<textline bbox="314.528,241.318,336.231,241.456">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="314.528,241.318,336.231,241.456" fontsize="0.138">oportuno</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="72" bbox="338.650,241.318,360.969,241.456">
+<textline bbox="338.650,241.318,360.969,241.456">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="338.650,241.318,360.969,241.456" fontsize="0.138">señalado</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="85" bbox="363.384,241.318,369.500,241.456">
+<textline bbox="363.384,241.318,369.500,241.456">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="363.384,241.318,369.500,241.456" fontsize="0.138">en</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="154" bbox="371.910,241.318,376.189,241.456">
+<textline bbox="371.910,241.318,376.189,241.456">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="371.910,241.318,376.189,241.456" fontsize="0.138">la</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="110" bbox="14.992,234.993,33.318,235.130">
+<textline bbox="14.992,234.993,33.318,235.130">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="14.992,234.993,33.318,235.130" fontsize="0.138">factura,</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="40" bbox="35.319,234.993,39.598,235.130">
+<textline bbox="35.319,234.993,39.598,235.130">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="35.319,234.993,39.598,235.130" fontsize="0.138">el</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="164" bbox="41.585,234.993,59.620,235.130">
+<textline bbox="41.585,234.993,59.620,235.130">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="41.585,234.993,59.620,235.130" fontsize="0.138">usuario</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="33" bbox="61.610,234.993,86.976,235.130">
+<textline bbox="61.610,234.993,86.976,235.130">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="61.610,234.993,86.976,235.130" fontsize="0.138">solamente</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="150" bbox="88.971,234.993,106.093,235.130">
+<textline bbox="88.971,234.993,106.093,235.130">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="88.971,234.993,106.093,235.130" fontsize="0.138">deberá</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="88" bbox="108.083,234.993,129.786,235.130">
+<textline bbox="108.083,234.993,129.786,235.130">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="108.083,234.993,129.786,235.130" fontsize="0.138">proceder</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="87" bbox="131.776,234.993,136.055,235.130">
+<textline bbox="131.776,234.993,136.055,235.130">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="131.776,234.993,136.055,235.130" fontsize="0.138">al</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="60" bbox="139.570,234.993,151.802,235.130">
+<textline bbox="139.570,234.993,151.802,235.130">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="139.570,234.993,151.802,235.130" fontsize="0.138">pago</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="104" bbox="153.791,234.993,159.907,235.130">
+<textline bbox="153.791,234.993,159.907,235.130">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="153.791,234.993,159.907,235.130" fontsize="0.138">de</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="151" bbox="161.894,234.993,168.923,235.130">
+<textline bbox="161.894,234.993,168.923,235.130">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="161.894,234.993,168.923,235.130" fontsize="0.138">las</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="130" bbox="170.910,234.993,187.107,235.130">
+<textline bbox="170.910,234.993,187.107,235.130">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="170.910,234.993,187.107,235.130" fontsize="0.138">sumas</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="145" bbox="189.094,234.993,198.268,235.130">
+<textline bbox="189.094,234.993,198.268,235.130">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="189.094,234.993,198.268,235.130" fontsize="0.138">que</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="112" bbox="200.256,234.993,206.372,235.130">
+<textline bbox="200.256,234.993,206.372,235.130">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="200.256,234.993,206.372,235.130" fontsize="0.138">no</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="49" bbox="208.359,234.993,220.283,235.130">
+<textline bbox="208.359,234.993,220.283,235.130">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="208.359,234.993,220.283,235.130" fontsize="0.138">sean</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="48" bbox="222.271,234.993,237.248,235.130">
+<textline bbox="222.271,234.993,237.248,235.130">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="222.271,234.993,237.248,235.130" fontsize="0.138">objeto</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="109" bbox="239.242,234.993,245.358,235.130">
+<textline bbox="239.242,234.993,245.358,235.130">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="239.242,234.993,245.358,235.130" fontsize="0.138">de</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="32" bbox="247.345,234.993,278.514,235.130">
+<textline bbox="247.345,234.993,278.514,235.130">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="247.345,234.993,278.514,235.130" fontsize="0.138">reclamación.</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="132" bbox="280.510,234.993,285.399,235.130">
+<textline bbox="280.510,234.993,285.399,235.130">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="280.510,234.993,285.399,235.130" fontsize="0.138">Al</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="157" bbox="287.386,234.993,305.723,235.130">
+<textline bbox="287.386,234.993,305.723,235.130">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="287.386,234.993,305.723,235.130" fontsize="0.138">reverso</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="65" bbox="14.992,228.669,304.699,228.806">
+<textline bbox="14.992,228.669,304.699,228.806">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="14.992,228.669,304.699,228.806" fontsize="0.138">medios de pago autorizados. Cualquier información adicional, comuníquese con nuestra línea Nacional:018003200200</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="153" bbox="7.250,167.130,72.001,167.351">
+<textline bbox="7.250,167.130,72.001,167.351">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="7.250,167.130,72.001,167.351" fontsize="0.221">TELMEX COLOMBIA S.A.</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="90" bbox="28.722,149.009,71.398,149.267">
+<textline bbox="28.722,149.009,71.398,149.267">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="28.722,149.009,71.398,149.267" fontsize="0.258">Pagos medios</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="156" bbox="307.711,234.993,313.827,235.130">
+<textline bbox="307.711,234.993,313.827,235.130">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="307.711,234.993,313.827,235.130" fontsize="0.138">de</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="113" bbox="315.814,234.993,320.093,235.130">
+<textline bbox="315.814,234.993,320.093,235.130">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="315.814,234.993,320.093,235.130" fontsize="0.138">la</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="133" bbox="322.080,234.993,338.882,235.130">
+<textline bbox="322.080,234.993,338.882,235.130">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="322.080,234.993,338.882,235.130" fontsize="0.138">factura</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="52" bbox="340.879,234.993,367.163,235.130">
+<textline bbox="340.879,234.993,367.163,235.130">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="340.879,234.993,367.163,235.130" fontsize="0.138">encontrará</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="30" bbox="369.159,234.993,376.188,235.130">
+<textline bbox="369.159,234.993,376.188,235.130">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="369.159,234.993,376.188,235.130" fontsize="0.138">los</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="83" bbox="76.062,167.321,126.090,167.579">
+<textline bbox="76.062,167.321,126.090,167.579">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="76.062,167.321,126.090,167.579" fontsize="0.258">Factura de venta</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="7" bbox="82.231,159.246,117.259,159.533">
+<textline bbox="82.231,159.246,117.259,159.533">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="82.231,159.246,117.259,159.533" fontsize="0.287">211996138</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="128" bbox="76.250,148.259,95.490,148.517">
+<textline bbox="76.250,148.259,95.490,148.517">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="76.250,148.259,95.490,148.517" fontsize="0.258">Banco</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="43" bbox="150.664,188.657,232.288,188.903">
+<textline bbox="150.664,188.657,232.288,188.903">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="150.664,188.657,232.288,188.903" fontsize="0.246">- DESPRENDIBLE CLIENTE -</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="78" bbox="132.187,167.321,182.215,167.579">
+<textline bbox="132.187,167.321,182.215,167.579">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="132.187,167.321,182.215,167.579" fontsize="0.258">Fecha de factura</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="106" bbox="132.500,147.946,182.497,148.204">
+<textline bbox="132.500,147.946,182.497,148.204">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="132.500,147.946,182.497,148.204" fontsize="0.258">No. Autorización</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="100" bbox="186.096,159.948,239.380,160.123">
+<textline bbox="186.096,159.948,239.380,160.123">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="186.096,159.948,239.380,160.123" fontsize="0.175">Noviembre 02/09</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="24" bbox="197.812,148.259,216.006,148.517">
+<textline bbox="197.812,148.259,216.006,148.517">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="197.812,148.259,216.006,148.517" fontsize="0.258">Fecha</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="3" bbox="283.765,169.030,364.063,169.276">
+<textline bbox="283.765,169.030,364.063,169.276">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="283.765,169.030,364.063,169.276" fontsize="0.246">PARA PAGOS POR MEDIOS</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="124" bbox="289.268,162.550,360.212,162.796">
+<textline bbox="289.268,162.550,360.212,162.796">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="289.268,162.550,360.212,162.796" fontsize="0.246">ELECTRONICOS DIGITE </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="20" bbox="308.103,156.070,339.741,156.316">
+<textline bbox="308.103,156.070,339.741,156.316">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="308.103,156.070,339.741,156.316" fontsize="0.246">No. Cuenta</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="66" bbox="34.321,141.765,71.403,142.023">
+<textline bbox="34.321,141.765,71.403,142.023">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="34.321,141.765,71.403,142.023" fontsize="0.258">electrónicos</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="59" bbox="266.500,117.331,292.822,117.577">
+<textline bbox="266.500,117.331,292.822,117.577">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="266.500,117.331,292.822,117.577" fontsize="0.246">Señor(a):</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="27" bbox="307.302,138.683,338.438,138.970">
+<textline bbox="307.302,138.683,338.438,138.970">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="307.302,138.683,338.438,138.970" fontsize="0.287">42739045</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="63" bbox="266.500,110.444,369.472,110.594">
+<textline bbox="266.500,110.444,369.472,110.594">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="266.500,110.444,369.472,110.594" fontsize="0.150"> CRUZ ELENA BEDOYA JARAMILLO </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="161" bbox="152.631,74.677,221.035,74.964">
+<textline bbox="152.631,74.677,221.035,74.964">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="152.631,74.677,221.035,74.964" fontsize="0.287">Saldo renta mensual</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="126" bbox="263.910,64.259,317.063,64.517">
+<textline bbox="263.910,64.259,317.063,64.517">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="263.910,64.259,317.063,64.517" fontsize="0.258">Fecha limite pago</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="70" bbox="274.407,57.009,317.089,57.267">
+<textline bbox="274.407,57.009,317.089,57.267">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="274.407,57.009,317.089,57.267" fontsize="0.258">renta mensual</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="82" bbox="267.062,50.647,317.090,50.804">
+<textline bbox="267.062,50.647,317.090,50.804">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="267.062,50.647,317.090,50.804" fontsize="0.158">TOTAL A PAGAR</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="111" bbox="328.463,59.666,367.327,59.953">
+<textline bbox="328.463,59.666,367.327,59.953">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="328.463,59.666,367.327,59.953" fontsize="0.287">INMEDIATA</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="31" bbox="26.700,36.597,235.500,40.407">
+<textline bbox="26.700,36.597,235.500,40.407">
+<text font="HDDBIG+UNAWNormal" vertical="False" bbox="26.700,36.597,235.500,40.407" fontsize="3.810">JLmMR;w5Q;yNRfIfk;UspWFhQYyJk7uw4KpfI8bQVcsGGRbMTS4TiYiHjz</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="0" bbox="26.700,20.722,235.500,24.532">
+<textline bbox="26.700,20.722,235.500,24.532">
+<text font="HDDBIG+UNAWNormal" vertical="False" bbox="26.700,20.722,235.500,24.532" fontsize="3.810">JLmMR;w5Q;yNRfIfk;UspWFhQYyJk7uw4KpfI8bQVcsGGRbMTS4TiYiHjz</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="114" bbox="353.653,47.103,375.052,47.390">
+<textline bbox="353.653,47.103,375.052,47.390">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="353.653,47.103,375.052,47.390" fontsize="0.287">46.400</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="115" bbox="262.838,43.759,317.415,44.017">
+<textline bbox="262.838,43.759,317.415,44.017">
+<text font="EDDBIG+Arial-BoldMT" vertical="False" bbox="262.838,43.759,317.415,44.017" fontsize="0.258">RENTA MENSUAL</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="18" bbox="27.525,13.686,225.541,13.848">
+<textline bbox="27.525,13.686,225.541,13.848">
+<text font="DDDBIG+ArialMT" vertical="False" bbox="27.525,13.686,225.541,13.848" fontsize="0.163">(415)7709998002319(8020)42739045(3900)00046400(96)20091117</text>
+<text>
+</text>
+</textline>
+</textbox>
+</page>
+</pages>
