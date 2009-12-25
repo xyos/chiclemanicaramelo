@@ -1,4 +1,3 @@
-import pyPdf
 import httplib
 import sys
 from pdfminer.pdfparser import PDFDocument, PDFParser
