@@ -11,7 +11,7 @@ import threading
 
 HOST="190.27.201.2"
 URL="/bill_telmex.php?JULIO="
-DIR="./facturas"
+DIR="./facturas/"
 
 class PdfDownloader(threading.Thread):
 	def __init__(self,ini,fin):
