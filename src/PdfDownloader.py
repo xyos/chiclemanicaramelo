@@ -13,18 +13,27 @@ HOST="190.27.201.2"
 URL="/bill_telmex.php?JULIO="
 DIR="./facturas/"
 
+
 class PdfDownloader(threading.Thread):
+
+
 	def __init__(self,ini,fin):
 		self.ini= ini
 		self.fin= fin
 		threading.Thread.__init__(self)
+
+
 	def run(self):
 		self.download(self.ini,self.fin)
+
+
 	def savepdf(self,num,pdffile):
 		filename = DIR+str(num)+".pdf"
 		fileout = file(filename,'w')
 		fileout.write(pdffile)
 		fileout.close
+
+
 	def download(self,ini,fin):
 		for num in xrange(ini,fin):
 			conection = httplib.HTTPConnection(HOST)
