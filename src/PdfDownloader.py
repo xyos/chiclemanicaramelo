@@ -11,7 +11,7 @@ import threading
 from pdfminer.converter import XMLConverter
 from pdfminer.pdfinterp import PDFResourceManager, process_pdf
 
-HOST="190.27.201.2"
+HOST="xxx.xxx.xxx.xxx"
 URL="/bill_telmex.php?JULIO="
 DIR="./facturas/"
 
