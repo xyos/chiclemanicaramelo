@@ -10,6 +10,7 @@ import httplib
 import threading
 from pdfminer.converter import XMLConverter
 from pdfminer.pdfinterp import PDFResourceManager, process_pdf
+from pdfminer.layout import LAParams
 
 HOST="xxx.xxx.xxx.xxx"
 URL="/bill_telmex.php?JULIO="
@@ -38,7 +39,7 @@ class PdfDownloader(threading.Thread):
 		src = file(filename+".pdf",'rb')
 		out = file(filename+".xml", 'w')
 		rsrc = PDFResourceManager()
-		converter = XMLConverter(rsrc, out, codec='utf-8', laparams=None)
+		converter = XMLConverter(rsrc, out, codec='utf-8', laparams=LAParams())
 		process_pdf(rsrc, converter, src, 0, maxpages=0, password='')
 		src.close
 		out.close
